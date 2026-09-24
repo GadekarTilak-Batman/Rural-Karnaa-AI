@@ -1,0 +1,10 @@
+{
+  "name": "RuralKarnaa AI",
+  "description": "AI Financial Helper for Rural India - empowering farmers and rural families with financial health tracking, seasonal planning, loan management, and multilingual voice assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
